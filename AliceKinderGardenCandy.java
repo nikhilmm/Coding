@@ -2,8 +2,7 @@
 import java.util.Arrays;
 
 public class AliceKinderCandy {
-
-	public static void main(String[] args) {
+// Adding comment
 
 		int rating[] = {7,1,2,1,2,1,2,1};
 		int candies = 0;
